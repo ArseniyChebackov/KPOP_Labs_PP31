@@ -73,9 +73,6 @@ logPrize("100001")
 
 
 /* Task 3 */
-console.log(`\n###############################################`)
-console.log(`Task 3:`)
-
 
 interface Person { 
     name: string
